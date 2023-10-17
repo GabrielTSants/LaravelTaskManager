@@ -57,7 +57,6 @@ The following routes are available in the application:
 * GET /tasks/search - Searches for tasks
 * GET /api/task-index/{query?} - Searches for tasks via API
 Controllers
-The following controllers are available in the application:
 
 ## Objects and Controllers
 
